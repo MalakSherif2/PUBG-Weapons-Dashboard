@@ -66,12 +66,13 @@ High DPS does not necessarily mean a weapon is more efficient, as factors like b
 
 ---
 
-## 📂 Project Files
-
-* `dashboard.pbix` → Power BI file
-* `dashboard.pdf` → Static version
-* `screenshot.png` → Dashboard preview
-
+## 📁 Project Structure
+pubg-weapons-analysis/
+│
+├── dashboard.pbix
+├── dashboard.jpeg
+├── README.md
+└── insights.md
 ---
 
 ## 🚀 How to Use
